@@ -15,6 +15,6 @@ Saya belajar dengan membangun. Saya mengeksplorasi cybersecurity, data science, 
 
 ## Kontak & Kolaborasi
 * **Telepon/WhatsApp:** 0895622668417
-* **Link Website Portofolio:** [Lihat Portofolio Live](https://545b2537-9163-4366-8e2c-8a3b4d4d4ca3.app-preview.com/#beranda)
+* **Link Website Portofolio:** [Lihat Portofolio Live](https://ghani24ep10007-spec.github.io/portofolio/)
 
 > **Mari Bangun Solusi yang Lebih Aman, Cerdas, dan Bermanfaat.**
