@@ -1,46 +1,109 @@
-# Portfolio GitHub - Rizqi Ghani Adinata
+<!-- ══════════════════════════════════════════════════════════
+     PROFILE README — Rizqi Ghani Adinata | Hacker Edition
+     Semua kartu = SVG dinamis (diverifikasi aktif), berubah
+     otomatis mengikuti data GitHub terbaru.
+══════════════════════════════════════════════════════════════ -->
 
-**Junior Cybersecurity Enthusiast & Junior Data Scientist** — website portofolio bertema **hacker / terminal** dengan animasi serangan siber penuh (simulasi defensif, sandbox, data fiktif).
+<div align="center">
 
-## Tema & Fitur Visual
-- Palet terminal hacker: latar hijau-gelap `#050a07`, aksen fosfor hijau, amber (warning), merah (threat)
-- Matrix digital rain (canvas) di seluruh halaman
-- Efek glitch RGB pada judul hero + scanline CRT + grid overlay + binary ticker
-- Boot sequence terminal mengetik otomatis di hero
-- Boot/scroll scramble ("decrypt") pada judul proyek & seksi
+```
+██████╗ ██╗███████╗███╗   ██╗████████╗██╗  ██╗    ███████╗ ██████╗██╗  ██╗██╗██████╗ ██╗
+██╔══██╗██║██╔════╝████╗  ██║╚══██╔══╝██║  ██║    ██╔════╝██╔════╝██║  ██║██║██╔══██╗██║
+██████╔╝██║█████╗  ██╔██╗ ██║   ██║   ███████║    ███████╗██║     ███████║██║██████╔╝██║
+██╔══██╗██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██║    ╚════██║██║     ██╔══██║██║██╔═══╝ ╚═╝
+██║  ██║██║███████╗██║ ╚████║   ██║   ██║  ██║    ███████║╚██████╗██║  ██║██║██║     ██╗
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
+```
 
-## Animasi Serangan Siber (Simulasi — SOC Dashboard)
-Kill-chain lengkap 5 fase, berjalan otomatis saat seksi terlihat atau lewat tombol ▶:
-1. **Reconnaissance** — nmap sandbox, DNS beacon
-2. **Scanning** — SYN stealth, port terbuka
-3. **Exploitation** — payload dummy, WAF block, rate-limiter
-4. **Exfiltration attempt** — beacon tertahan egress filter
-5. **Detection & Mitigation** — SIEM alert, quarantine, hardening → `THREAT NEUTRALIZED ✓`
-- Radar sweep + blip, 3 meter live (kill-chain, threat level, integritas defens)
-- Kontrol penuh: ▶ Mulai / ❚❚ Jeda / ⟲ Reset, plus tombol global **Animasi ON/OFF**
-- Semua IP/host/CVE **fiktif**; `prefers-reduced-motion` dihormati otomatis
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BD57F&center=true&vCenter=true&width=560&lines=Junior+Cybersecurity+Enthusiast;Junior+Data+Scientist;Membongkar+keamanan+sistem...;Meretas+pola+data...;Mari+bangun+solusi+yang+aman+%26+cerdas)
 
-## Layout (sesuai spesifikasi)
-- Header: nama, spesialisasi, navigasi seksi bernomor `[01]…[05]` (sticky, menu hamburger di mobile)
-- Hero: heading besar + bio & status terkini di kanan (terminal + panel bio)
-- Grid desktop: kartu proyek 2 kolom di kiri; timeline karier, skill tags, kontak di kanan
-- Kartu proyek: nama, kategori, tahun, pratinjau visual SVG animatif → klik membuka modal `<dialog>` (latar belakang, tanggung jawab, hasil) dengan tombol TUTUP + Esc + decrypt animation
-- Mobile/tablet: semuanya menumpuk dalam urutan baca, scroll vertikal bebas
-- Aksesibilitas: HTML semantik, focus-visible, label form, `aria-live`, skip-link
+[![Live Portfolio](https://img.shields.io/badge/▶_LIVE_PORTFOLIO-ghani24ep10007--spec.github.io-2bd57f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghani24ep10007-spec.github.io/portofolio/)
+[![WhatsApp](https://img.shields.io/badge/HUBUNGI_VIA_WHATSAPP-f5c84c?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/62895622668417)
+[![Status](https://img.shields.io/badge/STATUS-terbuka_untuk_kolaborasi_%26_magang-2bd57f?style=for-the-badge)](#-access-point--kontak)
 
-## Data & Kejujuran Konten
-- Info riil (dari pemilik): nama, spesialisasi, skill, WhatsApp `0895-6226-68417`, GitHub `ghani24ep10007-spec`
-- Email: **PENDING** — belum disediakan
-- **6 kartu proyek = proyek riil** dari GitHub (gonet-jaya-abadi, Containerized-BI-Telemetry-System, UAS-DataScience-Toolkit, Ai-chatbot, auto-portfolio-generator, seri SIAKAD/web) dengan tautan sumber di tiap modal; timeline karier disusun dari riwayat repo nyata
-- Tidak ada award/testimoni/angka performa fiktif yang diklaim sebagai nyata
-- Form kontak tanpa server: menyusun pesan lalu membuka WhatsApp
+### ⛏ Contribution Snake — *bergerak realtime mengikuti grid kontribusi*
 
-## Kontak & Kolaborasi
-* **Telepon/WhatsApp:** 0895622668417
-* **Link Website Portofolio:** [Lihat Portofolio Live](https://ghani24ep10007-spec.github.io/portofolio/)
+![Snake animation](https://raw.githubusercontent.com/ghani24ep10007-spec/ghani24ep10007-spec/main/github-contribution-grid-snake.svg)
 
-## Menjalankan
-Buka `index.html` langsung di browser — tanpa build, tanpa CDN, tanpa dependensi eksternal.
+### 📡 System Telemetry — *kartu hidup, sinkron dengan GitHub*
 
-## Automation Lokal
-Automation Qoder cron berjalan tiap jam untuk memilih pekerjaan portofolio berikutnya (lihat daftar Automation di Qoder).
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ghani24ep10007-spec&show_icons=true&hide_border=true&bg_color=050a07&color=d9e8dc&title_color=2bd57f&icon_color=4dd8ff&count_private=true)
+
+</td>
+<td>
+
+![Streak](https://streak-stats.demolab.com?user=ghani24ep10007-spec&theme=high-contrast&hide_border=true&background=050a07&border=1d3122&stroke=8fa896&ring=2bd57f&fire=f5c84c&currStreakLabel=4dd8ff)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghani24ep10007-spec&layout=compact&hide_border=true&bg_color=050a07&color=d9e8dc&title_color=2bd57f)
+
+</td>
+<td>
+
+![Contribution Calendar](https://ghchart.rshah.org/2bd57f/ghani24ep10007-spec)
+
+</td>
+</tr>
+</table>
+
+### 🧰 Arsenal — *stack yang dipakai di proyek nyata*
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,react,vite,git,github,githubactions,docker,grafana,sqlite,flask,linux" />
+
+<details open>
+<summary><code>[02]</code> <b>▚ PROYEK PILIHAN — klik untuk membuka source</b></summary>
+<br/>
+
+| Proyek | Kategori | Sorotan |
+|---|---|---|
+| 🌐 [Gonet Jaya Abadi](https://github.com/ghani24ep10007-spec/gonet-jaya-abadi) | Data Science · Web | Portal ISP (React 19 + Vite) + dashboard analitik CSV, visualisasi eksploratori & **churn prediction** |
+| 📊 [Containerized BI & Telemetry](https://github.com/ghani24ep10007-spec/Containerized-BI-Telemetry-System) | DevOps | Pipeline BI + **monitoring Grafana** real-time terkontainerisasi |
+| 🧪 [UAS DataScience Toolkit](https://github.com/ghani24ep10007-spec/UAS-DataScience-Toolkit) | Data Science | CLI Python: cleaning data, **K-Means**, klasifikasi, analisis sentimen (Pandas + SQLite) |
+| 🤖 [AI Chatbot & Mini-Apps](https://github.com/ghani24ep10007-spec/Ai-chatbot) | AI & Tools | Chatbot **Gemini** + Flask, ATM simulator, kuis, todo apps |
+| ⚙️ [Auto Portfolio Generator](https://github.com/ghani24ep10007-spec/auto-portfolio-generator) | DevOps | Generator portofolio + **CI/CD** deploy GitHub Pages |
+| 🕸️ [SIAKAD & Web Series](https://github.com/ghani24ep10007-spec/siakad-online) | Web Dev | SIAKAD clone, web HMPS, TokoBaju |
+
+</details>
+
+<details>
+<summary><code>[03]</code> <b>▚ KILL-CHAIN LOG — cara kerja saya</b></summary>
+
+```text
+[RECON  ] memahami masalah & konteks proyek sebelum menulis kode
+[SCAN   ] memecah masalah besar menjadi task kecil yang teruji
+[EXPLOIT] membangun, menguji, menemukan bug — di situ belajar terjadi
+[HARDEN ] dokumentasi rapi: proyek bisa diaudit & dikembangkan
+[DEFEND ] pola pikir keamanan: setiap sistem punya permukaan serangan
+```
+
+</details>
+
+### 📶 Access Point / Kontak
+
+<a href="https://github.com/ghani24ep10007-spec"><img src="https://img.shields.io/badge/GITHUB-ghani24ep10007--spec-2bd57f?style=flat-square&logo=github" /></a>
+<a href="https://wa.me/62895622668417"><img src="https://img.shields.io/badge/WHATSAPP-0895--6226--68417-f5c84c?style=flat-square&logo=whatsapp&logoColor=black" /></a>
+<a href="https://ghani24ep10007-spec.github.io/portofolio/"><img src="https://img.shields.io/badge/WEBSITE-portofolio_live-4dd8ff?style=flat-square&logo=html5&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/EMAIL-pending-ff5f56?style=flat-square" />
+
+<br/><br/>
+
+> ```
+> // setiap sistem punya cerita — saya menulis skripnya.
+> // mari bangun solusi yang lebih aman, cerdas, dan bermanfaat.
+> ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ghani24ep10007-spec&color=2bd57f&style=for-the-badge&label=PROFILE+SCANS)
+
+<i>⚠ Animasi serangan di website = latihan defensive (sandbox, data fiktif) — tidak ada sistem nyata yang terpengaruh.</i>
+
+</div>
+
+<!-- [ EOF ] -->
