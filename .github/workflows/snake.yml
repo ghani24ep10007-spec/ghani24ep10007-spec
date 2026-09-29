@@ -1,0 +1,37 @@
+name: github contribution snake (animasi profil)
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'github-contribution-grid-snake.svg'
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ghani24ep10007-spec
+          outputs: github-contribution-grid-snake.svg
+
+      - name: Commit & push SVG ke branch main
+        run: |
+          git config --global user.name "snake-bot"
+          git config --global user.email "snake-bot@users.noreply.github.com"
+          git pull origin main --rebase || true
+          git add -f github-contribution-grid-snake.svg
+          git diff --cached --quiet || git commit -m "chore: perbarui animasi snake kontribusi"
+          git push origin main
