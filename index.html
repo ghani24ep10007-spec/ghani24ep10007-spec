@@ -606,6 +606,16 @@ body.motion-off .glitch::after{display:none}
 ================================================================ */
 const PROJECTS = [
   {
+    id:"cyber-telemetry", name:"Cyber Telemetry Lab — Dashboard Ancaman Jaringan", cat:"Web Development", year:"2026", demo:false,
+    url:"https://github.com/ghani24ep10007-spec/cyber-telemetry-lab",
+    desc:"Dashboard telemetri jaringan simulasi yang hidup: throughput, port scan, syslog live — plus mode attack.",
+    preview:"gauge",
+    bg:"Proyek web programming baru bertema hacker: dashboard telemetri jaringan interaktif (React 19 + Vite + Recharts). Data dibangkitkan generator deterministik ber-seed (mulberry32 PRNG) — bukan telemetri produksi — dengan Attack Mode yang mensimulasikan lonjakan port scan & credential stuffing, filter per node, live syslog bergaya terminal, dan ekspor CSV.",
+    resp:["Membangun pipeline data client-side: seeded PRNG → sintesis sinyal per node → window chart 60 tick","Implementasi Attack Mode yang mendistorsi distribusi scans/logins/latency secara visual","Live syslog berjenjang ALERT/WARN/INFO + kontrol pause/reset/animasi","Ekspor CSV dari window telemetri aktif"],
+    out:["Aplikasi React SPA penuh (bukan HTML statis) dengan visualisasi waktu-nyata","Demonstrasi pola dashboard monitoring ala Grafana langsung di browser"],
+    tech:["React 19","Vite","Recharts","JavaScript"]
+  },
+  {
     id:"gonet", name:"Gonet Jaya Abadi — Portal ISP + Analytics", cat:"Data Science", year:"2026", demo:false,
     url:"https://github.com/ghani24ep10007-spec/gonet-jaya-abadi",
     desc:"Situs layanan ISP + dashboard analitik (React + Vite) untuk tugas Data Science.",

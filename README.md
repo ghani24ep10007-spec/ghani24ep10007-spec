@@ -64,6 +64,7 @@
 
 | Proyek | Kategori | Sorotan |
 |---|---|---|
+| 🛰️ [Cyber Telemetry Lab](https://github.com/ghani24ep10007-spec/cyber-telemetry-lab) | Web Dev · Security Viz | Dashboard telemetri jaringan **real-time** (React 19 + Vite + Recharts): Attack Mode simulasi port scan & credential stuffing, live syslog, ekspor CSV |
 | 🌐 [Gonet Jaya Abadi](https://github.com/ghani24ep10007-spec/gonet-jaya-abadi) | Data Science · Web | Portal ISP (React 19 + Vite) + dashboard analitik CSV, visualisasi eksploratori & **churn prediction** |
 | 📊 [Containerized BI & Telemetry](https://github.com/ghani24ep10007-spec/Containerized-BI-Telemetry-System) | DevOps | Pipeline BI + **monitoring Grafana** real-time terkontainerisasi |
 | 🧪 [UAS DataScience Toolkit](https://github.com/ghani24ep10007-spec/UAS-DataScience-Toolkit) | Data Science | CLI Python: cleaning data, **K-Means**, klasifikasi, analisis sentimen (Pandas + SQLite) |
