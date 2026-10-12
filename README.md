@@ -1,110 +1,83 @@
-<!-- ══════════════════════════════════════════════════════════
-     PROFILE README — Rizqi Ghani Adinata | Hacker Edition
-     Semua kartu = SVG dinamis (diverifikasi aktif), berubah
-     otomatis mengikuti data GitHub terbaru.
-══════════════════════════════════════════════════════════════ -->
+Draf markdown berikut dapat langsung disalin dan ditempel pada halaman editor GitHub Anda di [README.md Editor](https://github.com/ghani24ep10007-spec/ghani24ep10007-spec/edit/main/README.md):
 
-<div align="center">
-
-```
-██████╗ ██╗███████╗███╗   ██╗████████╗██╗  ██╗    ███████╗ ██████╗██╗  ██╗██╗██████╗ ██╗
-██╔══██╗██║██╔════╝████╗  ██║╚══██╔══╝██║  ██║    ██╔════╝██╔════╝██║  ██║██║██╔══██╗██║
-██████╔╝██║█████╗  ██╔██╗ ██║   ██║   ███████║    ███████╗██║     ███████║██║██████╔╝██║
-██╔══██╗██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██║    ╚════██║██║     ██╔══██║██║██╔═══╝ ╚═╝
-██║  ██║██║███████╗██║ ╚████║   ██║   ██║  ██║    ███████║╚██████╗██║  ██║██║██║     ██╗
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-```
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BD57F&center=true&vCenter=true&width=560&lines=Junior+Cybersecurity+Enthusiast;Junior+Data+Scientist;Membongkar+keamanan+sistem...;Meretas+pola+data...;Mari+bangun+solusi+yang+aman+%26+cerdas)
-
-[![Live Portfolio](https://img.shields.io/badge/▶_LIVE_PORTFOLIO-ghani24ep10007--spec.github.io-2bd57f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghani24ep10007-spec.github.io/portofolio/)
-[![WhatsApp](https://img.shields.io/badge/HUBUNGI_VIA_WHATSAPP-f5c84c?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/62895622668417)
-[![Status](https://img.shields.io/badge/STATUS-terbuka_untuk_kolaborasi_%26_magang-2bd57f?style=for-the-badge)](#-access-point--kontak)
-
-### ⛏ Contribution Snake — *bergerak realtime mengikuti grid kontribusi*
-
-![Snake animation](https://raw.githubusercontent.com/ghani24ep10007-spec/ghani24ep10007-spec/main/github-contribution-grid-snake.svg)
-
-### 📡 System Telemetry — *kartu hidup, sinkron dengan GitHub*
-
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ghani24ep10007-spec&show_icons=true&hide_border=true&bg_color=050a07&color=d9e8dc&title_color=2bd57f&icon_color=4dd8ff&count_private=true)
-
-</td>
-<td>
-
-![Streak](https://streak-stats.demolab.com?user=ghani24ep10007-spec&theme=high-contrast&hide_border=true&background=050a07&border=1d3122&stroke=8fa896&ring=2bd57f&fire=f5c84c&currStreakLabel=4dd8ff)
-
-</td>
-</tr>
-<tr>
-<td>
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghani24ep10007-spec&layout=compact&hide_border=true&bg_color=050a07&color=d9e8dc&title_color=2bd57f)
-
-</td>
-<td>
-
-![Contribution Calendar](https://ghchart.rshah.org/2bd57f/ghani24ep10007-spec)
-
-</td>
-</tr>
-</table>
-
-### 🧰 Arsenal — *stack yang dipakai di proyek nyata*
-
-<img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,react,vite,git,github,githubactions,docker,grafana,sqlite,flask,linux" />
-
-<details open>
-<summary><code>[02]</code> <b>▚ PROYEK PILIHAN — klik untuk membuka source</b></summary>
-<br/>
-
-| Proyek | Kategori | Sorotan |
-|---|---|---|
-| 🛰️ [Cyber Telemetry Lab](https://github.com/ghani24ep10007-spec/cyber-telemetry-lab) | Web Dev · Security Viz | Dashboard telemetri jaringan **real-time** (React 19 + Vite + Recharts): Attack Mode simulasi port scan & credential stuffing, live syslog, ekspor CSV |
-| 🌐 [Gonet Jaya Abadi](https://github.com/ghani24ep10007-spec/gonet-jaya-abadi) | Data Science · Web | Portal ISP (React 19 + Vite) + dashboard analitik CSV, visualisasi eksploratori & **churn prediction** |
-| 📊 [Containerized BI & Telemetry](https://github.com/ghani24ep10007-spec/Containerized-BI-Telemetry-System) | DevOps | Pipeline BI + **monitoring Grafana** real-time terkontainerisasi |
-| 🧪 [UAS DataScience Toolkit](https://github.com/ghani24ep10007-spec/UAS-DataScience-Toolkit) | Data Science | CLI Python: cleaning data, **K-Means**, klasifikasi, analisis sentimen (Pandas + SQLite) |
-| 🤖 [AI Chatbot & Mini-Apps](https://github.com/ghani24ep10007-spec/Ai-chatbot) | AI & Tools | Chatbot **Gemini** + Flask, ATM simulator, kuis, todo apps |
-| ⚙️ [Auto Portfolio Generator](https://github.com/ghani24ep10007-spec/auto-portfolio-generator) | DevOps | Generator portofolio + **CI/CD** deploy GitHub Pages |
-| 🕸️ [SIAKAD & Web Series](https://github.com/ghani24ep10007-spec/siakad-online) | Web Dev | SIAKAD clone, web HMPS, TokoBaju |
-
-</details>
-
-<details>
-<summary><code>[03]</code> <b>▚ KILL-CHAIN LOG — cara kerja saya</b></summary>
+```markdown
+# 📊 Hi, I'm Ghani 👋 
+### Junior Data Scientist & ML Engineer | End-to-End Analytics & System Integration
 
 ```text
-[RECON  ] memahami masalah & konteks proyek sebelum menulis kode
-[SCAN   ] memecah masalah besar menjadi task kecil yang teruji
-[EXPLOIT] membangun, menguji, menemukan bug — di situ belajar terjadi
-[HARDEN ] dokumentasi rapi: proyek bisa diaudit & dikembangkan
-[DEFEND ] pola pikir keamanan: setiap sistem punya permukaan serangan
+██████╗ ██╗███████╗███╗   ██╗████████╗██╗  ██╗    ███████╗ ██████╗██╗  ██╗██╗██████╗ 
+██╔══██╗██║██╔════╝████╗  ██║╚══██╔══╝██║  ██║    ██╔════╝██╔════╝██║  ██║██║██╔══██╗
+██████╔╝██║█████╗  ██╔██╗ ██║   ██║   ███████║    ███████╗██║     ███████║██║██████╔╝
+██╔══██╗██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██║    ╚════██║██║     ██╔══██║██║██╔═══╝ 
+██║  ██║██║███████╗██║ ╚████║   ██║   ██║  ██║    ███████╗╚██████╗██║  ██║██║██║     
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     
 ```
 
-</details>
+Saya adalah seorang **Junior Data Scientist** yang berfokus pada analisis data, pemodelan Machine Learning, dan rekayasa data. Dengan latar belakang pendukung di bidang *System Analysis*, *Web Development*, dan *DevOps*, saya merancang solusi analitik *end-to-end* — mulai dari eksplorasi data hingga *deployment* model ke dalam *dashboard* dan *containerized pipeline*.
 
-### 📶 Access Point / Kontak
+---
 
-<a href="https://github.com/ghani24ep10007-spec"><img src="https://img.shields.io/badge/GITHUB-ghani24ep10007--spec-2bd57f?style=flat-square&logo=github" /></a>
-<a href="https://wa.me/62895622668417"><img src="https://img.shields.io/badge/WHATSAPP-0895--6226--68417-f5c84c?style=flat-square&logo=whatsapp&logoColor=black" /></a>
-<a href="https://ghani24ep10007-spec.github.io/portofolio/"><img src="https://img.shields.io/badge/WEBSITE-portofolio_live-4dd8ff?style=flat-square&logo=html5&logoColor=black" /></a>
-<img src="https://img.shields.io/badge/EMAIL-pending-ff5f56?style=flat-square" />
+### 🧰 Tech Stack & Tools
 
-<br/><br/>
+* **Core Role (Data Science & AI)**: Python, Pandas, NumPy, Scikit-Learn, K-Means Clustering, SQLite, Gemini AI API
+* **Supporting (Web & Data Viz)**: React 19, Vite, Recharts, Flask, TypeScript, HTML5/CSS3
+* **Supporting (DevOps & Infrastructure)**: Docker, Grafana, CI/CD (GitHub Actions), Telemetry & Syslog Monitoring
 
-> ```
-> // setiap sistem punya cerita — saya menulis skripnya.
-> // mari bangun solusi yang lebih aman, cerdas, dan bermanfaat.
-> ```
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ghani24ep10007-spec&color=2bd57f&style=for-the-badge&label=PROFILE+SCANS)
+### 🚀 Proyek Pilihan (Featured Projects)
 
-<i>⚠ Animasi serangan di website = latihan defensive (sandbox, data fiktif) — tidak ada sistem nyata yang terpengaruh.</i>
+| Proyek | Kategori | Deskripsi & Tech Stack |
+| :--- | :--- | :--- |
+| 🌐 [**Gonet Jaya Abadi**](https://github.com/ghani24ep10007-spec/gonet-jaya-abadi) | **Data Science (Primary)** | Portal ISP & Dashboard Analitik: Eksplorasi data pelanggan & *Churn Prediction Model* (React 19 + Python). |
+| 🧪 [**UAS DataScience Toolkit**](https://github.com/ghani24ep10007-spec/UAS-DataScience-Toolkit) | **Data Science (Primary)** | CLI Toolkit untuk *data cleaning*, *K-Means clustering*, klasifikasi, dan analisis sentimen (Pandas + SQLite). |
+| 🎓 [**Data Science Lab**](https://github.com/ghani24ep10007-spec/data-science-lab) | **Data Science (Primary)** | *Guided learning studio* dan eksperimen pipeline data terstruktur. |
+| 📊 [**Containerized BI & Telemetry**](https://github.com/ghani24ep10007-spec/Containerized-BI-Telemetry-System) | **DevOps (Supporting)** | Business Intelligence & monitoring performa sistem *real-time* menggunakan Docker & Grafana. |
+| 🛰️ [**Cyber Telemetry Lab**](https://github.com/ghani24ep10007-spec/cyber-telemetry-lab) | **Web Viz (Supporting)** | Dashboard simulasi telemetri jaringan *real-time* (React 19 + Recharts + Live Syslog). |
 
-</div>
+---
 
-<!-- [ EOF ] -->
+### ⚡ Metodologi Kerja (Engineering Philosophy)
+```text
+[RECON  ] Definisi Masalah: Memahami kebutuhan bisnis & karakteristik data.
+[SCAN   ] Exploratory Data Analysis (EDA): Pembersihan data & feature engineering.
+[EXPLOIT] Pemodelan & Pelatihan: Eksperimen algoritma ML untuk akurasi terbaik.
+[HARDEN ] Evaluasi & Validasi: Optimasi model, dokumentasi, & pengujian sistem.
+[DEFEND ] Deployment & Monitoring: Konfigurasi Docker, Grafana, & CI/CD pipeline.
+```
+
+---
+
+### 📬 Hubungi Saya
+* **Location**: Central Java, Indonesia
+* **Portfolio & Repositories**: [github.com/ghani24ep10007-spec](https://github.com/ghani24ep10007-spec)
+```text
+// "Data memberitahu apa yang terjadi, Machine Learning memprediksi apa yang akan datang."
+```
+```
+
+---
+
+### **2. Cara Menyusun Bab Pembahasan (Isi Laporan)**
+
+Bab Pembahasan merupakan inti dari sebuah laporan tempat disajikannya data, temuan utama, serta analisis mendalam. Langkah penyusunannya adalah sebagai berikut:
+
+1. **Sajikan Data & Temuan Utama**: Awali bab dengan menampilkan data empiris (grafik, tabel, atau diagram) agar pembaca mendapatkan gambaran yang jelas.
+2. **Lakukan Analisis & Interpretasi**: Berikan penjelasan mendalam mengenai arti data tersebut, bukan sekadar membaca angka.
+3. **Kaitkan dengan Literatur / Teori**: Hubungkan hasil temuan dengan landasan teori atau penelitian terdahulu yang relevan.
+4. **Gunakan Sub-bab yang Terstruktur**: Bagi pembahasan berdasarkan poin-poin rumusan masalah agar runtut dan terfokus.
+5. **Paparkan Implikasi**: Jelaskan dampak atau implikasi dari hasil temuan terhadap topik yang diteliti.
+
+---
+
+### **3. Tips Membuat Kesimpulan yang Baik**
+
+Kesimpulan berfungsi merangkum temuan utama dan menyimpulkan keseluruhan laporan:
+
+* **Jawab Rumusan Masalah**: Kesimpulan harus menjawab secara langsung pertanyaan rumusan masalah dan tujuan penulisan.
+* **Ringkas & Padat**: Rangkum poin-poin kunci tanpa mengulang pembahasan secara panjang lebar.
+* **Tidak Memasukkan Data Baru**: Hindari menyajikan fakta, grafik, atau analisis baru yang belum pernah dibahas pada bab pembahasan.
+* **Jaga Konsistensi**: Pastikan ada alur yang selaras dari latar belakang hingga bab penutup.
+* **Sertakan Saran / Rekomendasi**: Lengkapi kesimpulan dengan saran tindakan atau rekomendasi untuk langkah selanjutnya.
+
+📌 *Apakah Anda ingin membuat draf contoh laporan lengkap berbasis studi kasus data science tertentu?*
