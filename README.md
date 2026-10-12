@@ -1,20 +1,20 @@
-Draf markdown berikut dapat langsung disalin dan ditempel pada halaman editor GitHub Anda di [README.md Editor](https://github.com/ghani24ep10007-spec/ghani24ep10007-spec/edit/main/README.md):
+---
+### **Langkah 1: Perbarui README Profil**
+1. Buka tautan editor GitHub Anda: **[github.com/ghani24ep10007-spec/edit/main/README.md](https://github.com/ghani24ep10007-spec/ghani24ep10007-spec/edit/main/README.md)**.
+2. Hapus seluruh teks yang ada, lalu **salin dan tempel (*copy-paste*)** kode markdown di bawah ini:
 
 ```markdown
 # 📊 Hi, I'm Ghani 👋 
-### Junior Data Scientist & ML Engineer | End-to-End Analytics & System Integration
-
-```text
+### Junior Data Scientist & ML Engineer | End-to-End Analytics & System Integration```text
 ██████╗ ██╗███████╗███╗   ██╗████████╗██╗  ██╗    ███████╗ ██████╗██╗  ██╗██╗██████╗ 
 ██╔══██╗██║██╔════╝████╗  ██║╚══██╔══╝██║  ██║    ██╔════╝██╔════╝██║  ██║██║██╔══██╗
 ██████╔╝██║█████╗  ██╔██╗ ██║   ██║   ███████║    ███████╗██║     ███████║██║██████╔╝
 ██╔══██╗██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██║    ╚════██║██║     ██╔══██║██║██╔═══╝ 
-██║  ██║██║███████╗██║ ╚████║   ██║   ██║  ██║    ███████╗╚██████╗██║  ██║██║██║     
+██║  ██║██║███████╗██║ ╚████║   ██║   ██║  ██║    ███████║╚██████╗██║  ██║██║██║     
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     
 ```
-
-Saya adalah seorang **Junior Data Scientist** yang berfokus pada analisis data, pemodelan Machine Learning, dan rekayasa data. Dengan latar belakang pendukung di bidang *System Analysis*, *Web Development*, dan *DevOps*, saya merancang solusi analitik *end-to-end* — mulai dari eksplorasi data hingga *deployment* model ke dalam *dashboard* dan *containerized pipeline*.
-
+Saya adalah seorang **Junior Data Scientist** yang berfokus pada analisis data, pemodelan Machine Learning, dan rekayasa data. Dengan latar belakang pendukung di bidang *System Analysis*, 
+*Web Development*, dan *DevOps*, saya merancang solusi analitik *end-to-end* — mulai dari eksplorasi data hingga *deployment* model ke dalam *dashboard* dan *containerized pipeline*.
 ---
 
 ### 🧰 Tech Stack & Tools
@@ -56,28 +56,27 @@ Saya adalah seorang **Junior Data Scientist** yang berfokus pada analisis data, 
 ```
 ```
 
----
-
-### **2. Cara Menyusun Bab Pembahasan (Isi Laporan)**
-
-Bab Pembahasan merupakan inti dari sebuah laporan tempat disajikannya data, temuan utama, serta analisis mendalam. Langkah penyusunannya adalah sebagai berikut:
-
-1. **Sajikan Data & Temuan Utama**: Awali bab dengan menampilkan data empiris (grafik, tabel, atau diagram) agar pembaca mendapatkan gambaran yang jelas.
-2. **Lakukan Analisis & Interpretasi**: Berikan penjelasan mendalam mengenai arti data tersebut, bukan sekadar membaca angka.
-3. **Kaitkan dengan Literatur / Teori**: Hubungkan hasil temuan dengan landasan teori atau penelitian terdahulu yang relevan.
-4. **Gunakan Sub-bab yang Terstruktur**: Bagi pembahasan berdasarkan poin-poin rumusan masalah agar runtut dan terfokus.
-5. **Paparkan Implikasi**: Jelaskan dampak atau implikasi dari hasil temuan terhadap topik yang diteliti.
+3. Klik tombol **"Commit changes..."** di pojok kanan atas.
 
 ---
 
-### **3. Tips Membuat Kesimpulan yang Baik**
+### **Langkah 2: Atur Pinned Repositories**
+Saat ini repositori terpin Anda masih memuat proyek HTML biasa. Ubah susunannya agar berfokus pada Data Science:
+1. Buka halaman utama profil Anda di **[github.com/ghani24ep10007-spec](https://github.com/ghani24ep10007-spec)**.
+2. Pada blok **Pinned**, klik **"Customize your pins"**.
+3. **Hapus centang** pada repositori tugas biasa:
+   - ❌ `siakad-online`
+   - ❌ `web-hmps`
+   - ❌ `portofolio`
+4. **Beri centang** pada 6 repositori utama berikut:
+   - ✅ `gonet-jaya-abadi`
+   - ✅ `UAS-DataScience-Toolkit`
+   - ✅ `data-science-lab`
+   - ✅ `Containerized-BI-Telemetry-System`
+   - ✅ `cyber-telemetry-lab`
+   - ✅ `Ai-chatbot`
+5. Klik **"Save pins"**.
 
-Kesimpulan berfungsi merangkum temuan utama dan menyimpulkan keseluruhan laporan:
+---
 
-* **Jawab Rumusan Masalah**: Kesimpulan harus menjawab secara langsung pertanyaan rumusan masalah dan tujuan penulisan.
-* **Ringkas & Padat**: Rangkum poin-poin kunci tanpa mengulang pembahasan secara panjang lebar.
-* **Tidak Memasukkan Data Baru**: Hindari menyajikan fakta, grafik, atau analisis baru yang belum pernah dibahas pada bab pembahasan.
-* **Jaga Konsistensi**: Pastikan ada alur yang selaras dari latar belakang hingga bab penutup.
-* **Sertakan Saran / Rekomendasi**: Lengkapi kesimpulan dengan saran tindakan atau rekomendasi untuk langkah selanjutnya.
-
-📌 *Apakah Anda ingin membuat draf contoh laporan lengkap berbasis studi kasus data science tertentu?*
+💡 *Apakah ada bagian deskripsi proyek yang ingin Anda sesuaikan lebih lanjut?*
